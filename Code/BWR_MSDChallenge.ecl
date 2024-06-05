@@ -4,6 +4,8 @@ MSDMusic := $.File_Music.MSDS;
 //display the first 150 records
 
 OUTPUT(CHOOSEN(MSDMusic, 150), NAMED('Raw_MusicDS'));
+//This defaults to the first 100: 
+//OUTPUT(MSDMusic,NAMED(''))
 
 //*********************************************************************************
 //*********************************************************************************
@@ -13,16 +15,17 @@ OUTPUT(CHOOSEN(MSDMusic, 150), NAMED('Raw_MusicDS'));
 //*********************************************************************************
 //*********************************************************************************
 //Challenge: 
-//Reverse Sort by "year" and count your total music dataset and display the first 50
+//Reverse sort the dataset by "year" and display the first 50
 
-//Result: Total count is 1000000
-
-//Reverse sort by "year"
+//Reverse sort by "year":
 
 
-//display the first 50
+//Display the first 50:
 
 
+//*********************************************************************************
+//*********************************************************************************
+//Challenge: 
 //Count and display result
 
 
@@ -30,10 +33,9 @@ OUTPUT(CHOOSEN(MSDMusic, 150), NAMED('Raw_MusicDS'));
 //*********************************************************************************
 //Challenge: 
 //Display first 50 songs in year 2010 and then count the total number of songs released in 2010 
-
 //Result should have 9397 songs for 2010
 
-//Filter for 2010 and display the first 50
+//Filter for 2010 and display the first 50:
 
 
 //Count total songs released in 2010:
@@ -43,24 +45,22 @@ OUTPUT(CHOOSEN(MSDMusic, 150), NAMED('Raw_MusicDS'));
 //*********************************************************************************
 //Challenge: 
 //Count how many songs were produced by "Prince" in 1982
-
 //Result should have 4 counts
 
-//Filter ds for "Prince" AND 1982
+//Filter dataset for "Prince" AND 1982:
 
-//Count and display total 
+//Count and display total: 
 
 //*********************************************************************************
 //*********************************************************************************
 //Challenge: 
 //Who sang "Into Temptation"?
-
 //Result should have 3 records
 
-//Filter for "Into Temptation"
+//Filter for "Into Temptation":
 
 
-//Display result 
+//Display result: 
 
 
 //*********************************************************************************
