@@ -8,8 +8,9 @@ You will be introduced to big data concepts, how to process and analyze data usi
 
 The million Song dataset will be used in this challenge.
 
-##The Questions:
-Category One (MS1):
+## The Questions:
+
+**Category One (MS1):
 
 (A) Reverse sort your dataset by "year", and display only the first 50 (HINT: Use SORT, CHOOSEN, and OUTPUT). 
 
