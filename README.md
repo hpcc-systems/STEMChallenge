@@ -1,4 +1,4 @@
-# The 6-Minute STEM Music Challenge
+# The 60-Minute STEM Music Challenge
 Your assiognment in this challenge is to answer as many questions below about the sample Million Song Dataset that is provided for you.
 You will use the Enterprise Control Language (ECL) to answer these questions.
 
@@ -10,13 +10,21 @@ The million Song dataset will be used in this challenge.
 
 ##The Questions:
 Category One (MS1):
+
 (A) Reverse sort your dataset by "year", and display only the first 50 (HINT: Use SORT, CHOOSEN, and OUTPUT). 
+
 (B) Count the total number of records in the dataset (HINT: Use COUNT)  
+
 (C) Count the total number of songs released in 2010 and display the first 50 results
+
 (D) How many songs were produced by "Prince" in 1982?
+
 (E) Who sang the song "Into Temptation?"
+
 (F) Sort songs by Artist and Song Title, and output the first 100
+
 (G)What are the hottest songs by year in the Million Song Dataset? Exclude songs with no year value. HINT: Get the dataset’s maximum song_hotness value and use it in your output filter.
+
 
 Category Two (MS2):
 (A)Display all songs produced by the artist "Coldplay" that have a "Song Hotness" greater or equal to .75 ( >= .75 )
