@@ -74,8 +74,11 @@ All of the questions listed above are also reproduced oin your starting code fil
 Optionally, you can create a new file with your team name and challemge questions you answer correctly. (Example: Rename your **BWR_MSDChallenge.ecl** to **BWR_TeamECL.ecl**
 
 One point awarded for every correct answer in Category One.
+
 Two points awarded for every correct answer in Category Two.
+
 Three points awarded for every correct answer in Category Three.
+
 
 The solutions for all of the questions will be posted here after the event.
 
