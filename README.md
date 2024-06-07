@@ -1,5 +1,5 @@
 # The 60-Minute STEM Music Challenge
-Your assiognment in this challenge is to answer as many questions below about the sample Million Song Dataset that is provided for you.
+Welcome to the challenge repo! Your assignment in this challenge is to answer as many questions below about the sample Million Song Dataset that is provided for you.
 You will use the Enterprise Control Language (ECL) to answer these questions.
 
 You will be introduced to big data concepts, how to process and analyze data using ECL (Enterprise Control Language). This challenge starts with an overview of ECL language and its syntax. Then students are given a series of problems ranging from easy to mid-level difficulty to solve. 
@@ -66,6 +66,18 @@ Result has 2 fields, Year and TotalSongs, verify count is 89
 (C) What Artist had the overall hottest songs between 2006-2007?
 
 Calculate the average (AVE) song_hotness per Artist_name for Year 2006 and 2007
+
+## Submissions and Scoring
+
+For this challenge you have been provided with a computer and a connection to the HPCC Challenge cluster. There is starting code and other resources in this repo's Code folder.
+All of the questions listed above are also reproduced oin your starting code file titled **BWR_MSDChallenge.ecl** - Use this file to answer the challenge questions and submit to the cluster with your team name included in the file.
+Optionally, you can create a new file with your team name and challemge questions you answer correctly. (Example: Rename your **BWR_MSDChallenge.ecl** to **BWR_TeamECL.ecl**
+
+One point awarded for every correct answer in Category One.
+Two points awarded for every correct answer in Category Two.
+Three points awarded for every correct answer in Category Three.
+
+The solutions for all of the questions will be posted here after the event.
 
 
 
