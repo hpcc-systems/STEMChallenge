@@ -14,6 +14,10 @@ The Data Dictionary with Field Nemes and their Descriptions can be fould in the 
 
 The slides and information presented in this workshop can be viewed in the *Docs* folder.
 
+A wonderful "Cheat Sheet" is also located in the same *Docs* folder.
+
+...and this link might also be helpful to you: [Learn ECL](https://solutionslab.hpccsystems.com/learn-ecl/introduction/)
+
 ## The Questions:
 
 **Category One (MS1):**
