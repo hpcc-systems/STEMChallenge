@@ -8,6 +8,8 @@ You will be introduced to big data concepts, how to process and analyze data usi
 
 The million Song dataset will be used in this challenge.
 
+The Data Dictionary with Field Nemes and their Descriptions can be fould in the *DataDictionary* repo folder.
+
 ## The Questions:
 
 **Category One (MS1):**
