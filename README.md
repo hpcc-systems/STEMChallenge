@@ -10,7 +10,7 @@ The million Song dataset will be used in this challenge.
 
 The Data Dictionary with Field Nemes and their Descriptions can be fould in the *DataDictionary* repo folder.
 
-## Additional Docs and resources
+## Additional Docs and Resources
 
 The slides and information presented in this workshop can be viewed in the *Docs* folder.
 
