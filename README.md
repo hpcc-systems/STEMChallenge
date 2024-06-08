@@ -73,11 +73,11 @@ For this challenge you have been provided with a computer and a connection to th
 All of the questions listed above are also reproduced oin your starting code file titled **BWR_MSDChallenge.ecl** - Use this file to answer the challenge questions and submit to the cluster with your team name included in the file.
 Optionally, you can create a new file with your team name and challemge questions you answer correctly. (Example: Rename your **BWR_MSDChallenge.ecl** to **BWR_TeamECL.ecl**
 
-One point awarded for every correct answer in Category One.
+- One point awarded for every correct answer in Category One.
 
-Two points awarded for every correct answer in Category Two.
+- Two points awarded for every correct answer in Category Two.
 
-Three points awarded for every correct answer in Category Three.
+- Three points awarded for every correct answer in Category Three.
 
 
 The solutions for all of the questions will be posted here after the event.
