@@ -29,17 +29,17 @@ The million Song dataset will be used in this challenge.
 
 **Category Two (MS2):**
 
-(A)Display all songs produced by the artist "Coldplay" that have a "Song Hotness" greater or equal to .75 ( >= .75 )
+(A) Display all songs produced by the artist "Coldplay" that have a "Song Hotness" greater or equal to .75 ( >= .75 )
 
 SORT the output by title.
 
 Also, output the count of the total result
 
-(B)Count all songs whose "Duration" is between 200 AND 250 (inclusive) AND "song_hotness" is not equal to 0 AND "familarity" > .9
+(B) Count all songs whose "Duration" is between 200 AND 250 (inclusive) AND "song_hotness" is not equal to 0 AND "familarity" > .9
 
-(C)Create a new dataset which only has the "Title", "Artist_Name", "Release_Name" and "Year" information.
+(C) Create a new dataset which only has the "Title", "Artist_Name", "Release_Name" and "Year" information.
 
-(D)Calculate Correlation:
+(D) Calculate Correlation:
 
 Coorelation between "song_hotness" AND "artist_hotness“ and between "barsstartdev" AND "beatsstartdev"
 
