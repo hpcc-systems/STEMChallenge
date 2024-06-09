@@ -6,7 +6,7 @@ You will be introduced to big data concepts, how to process and analyze data usi
 
 ## Data Sources (Datasets)
 
-The million Song dataset will be used in this challenge.
+The million Song dataset will be used in this challenge. A list of songs from 1922 - 2011.
 
 The Data Dictionary with Field Nemes and their Descriptions can be fould in the *DataDictionary* repo folder.
 
