@@ -22,19 +22,20 @@ A wonderful "Cheat Sheet" is also located in the same *Docs* folder.
 
 **Category One (MS1):**
 
-(A) Reverse sort your dataset by "year", and display only the first 50 (HINT: Use SORT, CHOOSEN, and OUTPUT). 
+(A) Reverse sort your dataset by *year*, and display only the first 50 (HINT: Use **SORT**, **CHOOSEN**, and **OUTPUT**). 
 
-(B) Count the total number of records in the dataset (HINT: Use COUNT)  
+(B) Count the total number of records in the dataset (HINT: Use **COUNT**)  
 
-(C) Count the total number of songs released in 2010 and display the first 50 results
+(C) Count the total number of songs released in *year* '2010' and display the first 50 results
 
-(D) How many songs were produced by "Prince" in 1982?
+(D) How many songs were produced by 'Prince' in '1982'?
 
-(E) Who sang the song "Into Temptation?"
+(E) Who sang the song 'Into Temptation'?
 
-(F) Sort songs by Artist and Song Title, and output the first 100
+(F) Sort songs by Artist (*artist_Name*) and Song Title (*title*), and output the first 100
 
-(G)What are the hottest songs by year in the Million Song Dataset? Exclude songs with no year value. HINT: Get the dataset’s maximum song_hotness value and use it in your output filter.
+(G)What are the hottest songs by year in the Million Song Dataset? Exclude songs with no *year* value. 
+   HINT: Get the dataset’s maximum *song_hotness* value and use it in your output filter.
 
 
 **Category Two (MS2):**
