@@ -40,43 +40,45 @@ A wonderful "Cheat Sheet" is also located in the same *Docs* folder.
 
 **Category Two (MS2):**
 
-(A) Display all songs produced by the artist "Coldplay" that have a "Song Hotness" greater or equal to .75 ( >= .75 )
+(A) Display all songs produced by the artist 'Coldplay' that have a Song Hotness (*song_hotness*) greater or equal to .75 ( >= .75 )
 
-SORT the output by title.
+**SORT** the output by title.
 
-Also, output the count of the total result
+Also, output the count of the total result.
 
-(B) Count all songs whose "Duration" is between 200 AND 250 (inclusive) AND "song_hotness" is not equal to 0 AND "familarity" > .9
+(B) Count all songs whose *Duration* is between 200 AND 250 (inclusive) AND *song_hotness* is not equal to 0 AND *familarity* > .9
 
-(C) Create a new dataset which only has the "Title", "Artist_Name", "Release_Name" and "Year" information.
+(C) Create a new dataset which only has the *Title*, *Artist_Name*, *Release_Name* and *Year* information.
 
 (D) Calculate Correlation:
 
-Coorelation between "song_hotness" AND "artist_hotness“ and between "barsstartdev" AND "beatsstartdev"
+Coorelation between *song_hotness* AND *artist_hotness* and between *barsstartdev* AND *beatsstartdev*
 
 
 **Category Three (MS3):**
+
 (A) Create a new dataset which only has following conditions:
 
-Column named Song that has Title values (Song := Title)
+A new column (field) named *Song* that uses *Title* values (HINT: Song := Title;)
 
-Column named Artist that has artist_name values (Artist := Artist_Name)
+A new column (field) named *Artist* that uses *artist_name* values (HINT: Artist := Artist_Name;)
 
-New BOOLEAN Column called isPopular, and it's TRUE is IF song_hotness is greater than .80
+A new BOOLEAN Column (field) named *isPopular*, and is TRUE IF *song_hotness* is greater than .80
 
-New BOOLEAN Column called IsTooLoud which is TRUE IF Loudness > 0
+A new BOOLEAN Column (field) nameed *IsTooLoud* which is TRUE IF *Loudness* > 0
 
-Display the first 100
+Display the first 100. Result should have 4 columns named *Song*, *Artist*, *isPopular*, and *IsTooLoud*
 
-Result should have 4 columns named Song, Artist, isPopular, and IsTooLoud
+(HINT: a **TABLE** or a **PROJECT** will solve this!) 
 
-(B) Display number of songs per Year and count total songs released per year
 
-Result has 2 fields, Year and TotalSongs, verify count is 89
+(B) Display total number (**COUNT**)of songs per Year and count total songs released per year.
 
-(C) What Artist had the overall hottest songs between 2006-2007?
+Result has 2 fields, *Year* and *TotalSongs*, verify count is 89
 
-Calculate the average (AVE) song_hotness per Artist_name for Year 2006 and 2007
+(C) Which Artist had the overall hottest songs between 2006-2007?
+
+To solve this, calculate the average (**AVE**) *song_hotness* per Artist_name for Year 2006 and 2007.
 
 ## Submissions and Scoring
 
