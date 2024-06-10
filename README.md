@@ -6,9 +6,9 @@ You will be introduced to big data concepts, how to process and analyze data usi
 
 ## Data Sources (Datasets)
 
-The million Song dataset will be used in this challenge. A list of songs from 1922 - 2011.
+The Million Song dataset will be used in this challenge. You will see a list of songs from 1922 - 2011.
 
-The Data Dictionary with Field Names and their Descriptions can be fould in the *DataDictionary* repo folder.
+The Data Dictionary with Field Names and their Descriptions can be found in the *DataDictionary* repo folder.
 
 ## Additional Docs and Resources
 
@@ -26,7 +26,7 @@ A wonderful "Cheat Sheet" is also located in the same *Docs* folder.
 
 (B) Count the total number of records in the dataset (HINT: Use **COUNT**)  
 
-(C) Count the total number of songs released in *year* '2010' and display the first 50 results
+(C) Count the total number of songs released in the *year* '2010' and display the first 50 results
 
 (D) How many songs were produced by 'Prince' in '1982'?
 
