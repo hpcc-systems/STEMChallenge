@@ -46,7 +46,7 @@ A wonderful "Cheat Sheet" is also located in the same *Docs* folder.
 
 Also, output the count of the total result.
 
-(B) Count all songs whose *Duration* is between 200 AND 250 (inclusive) AND *song_hotness* is not equal to 0 AND *familarity* > .9
+(B) Count all songs whose *Duration* is between 200 AND 250 (inclusive) AND *song_hotness* is not equal to 0 AND *familiarity* > .9
 
 (C) Create a new dataset which only has the *Title*, *Artist_Name*, *Release_Name* and *Year* information.
 
@@ -65,7 +65,7 @@ A new column (field) named *Artist* that uses *artist_name* values (HINT: Artist
 
 A new BOOLEAN Column (field) named *isPopular*, and is TRUE IF *song_hotness* is greater than .80
 
-A new BOOLEAN Column (field) nameed *IsTooLoud* which is TRUE IF *Loudness* > 0
+A new BOOLEAN Column (field) named *IsTooLoud* which is TRUE IF *Loudness* > 0
 
 Display the first 100. Result should have 4 columns named *Song*, *Artist*, *isPopular*, and *IsTooLoud*
 
