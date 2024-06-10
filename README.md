@@ -8,7 +8,7 @@ You will be introduced to big data concepts, how to process and analyze data usi
 
 The million Song dataset will be used in this challenge. A list of songs from 1922 - 2011.
 
-The Data Dictionary with Field Nemes and their Descriptions can be fould in the *DataDictionary* repo folder.
+The Data Dictionary with Field Names and their Descriptions can be fould in the *DataDictionary* repo folder.
 
 ## Additional Docs and Resources
 
@@ -52,7 +52,7 @@ Also, output the count of the total result.
 
 (D) Calculate Correlation:
 
-Coorelation between *song_hotness* AND *artist_hotness* and between *barsstartdev* AND *beatsstartdev*
+Correlation between *song_hotness* AND *artist_hotness* and between *barsstartdev* AND *beatsstartdev*. 
 
 
 **Category Three (MS3):**
@@ -84,7 +84,7 @@ To solve this, calculate the average (**AVE**) *song_hotness* per Artist_name fo
 
 For this challenge you have been provided with a computer and a connection to the HPCC Challenge cluster. There is starting code and other resources in this repo's Code folder.
 All of the questions listed above are also reproduced on your starting code file titled **BWR_MSDChallenge.ecl** - Use this file to answer the challenge questions and submit to the cluster with your team name included in the file.
-Optionally, you can create a new file with your team name and challemge questions you answer correctly. (Example: Rename your **BWR_MSDChallenge.ecl** to **BWR_TeamECL.ecl**
+Optionally, you can create a new file with your team name and challenge questions you answer correctly. (Example: Rename your **BWR_MSDChallenge.ecl** to **BWR_TeamECL.ecl**
 
 - One point awarded for every correct answer in Category One.
 
