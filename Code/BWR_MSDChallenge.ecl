@@ -5,7 +5,7 @@ MSDMusic := $.File_Music.MSDS;
 
 OUTPUT(CHOOSEN(MSDMusic, 150), NAMED('Raw_MusicDS'));
 //This defaults to the first 100: 
-//OUTPUT(MSDMusic,NAMED(''))
+//OUTPUT(MSDMusic,NAMED('First100'));
 
 //*********************************************************************************
 //*********************************************************************************
